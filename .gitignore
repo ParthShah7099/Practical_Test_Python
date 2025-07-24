@@ -22,8 +22,5 @@ venv/
 # macOS system files
 .DS_Store
 
-# Image outputs (if you want to exclude them)
-*.png
-
 # Logs
 *.log
